@@ -1,4 +1,6 @@
-### Hi there 👋
+### 
+![bob ross find freedom](https://github.com/coldowens/coldowens/assets/104291076/266bd912-b64d-4882-95fa-48d260ab3adb)
+Hi there 👋
 My real name is Travis and I love learning to code.
 <!--
 **coldowens/coldowens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
